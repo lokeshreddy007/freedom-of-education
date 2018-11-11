@@ -2,20 +2,21 @@
 
 ### This repo contains full list of websites from where you can download Courses,Publish Papers,Books,Audiobooks,Apps,Software and many more... if you found any website which is useful and not present in this list,let me known
 
-1. [Download Courses](#Courses)
-2. [Download Publish Paper](#Paper)
-3. [Download Books](#Books)
-4. [Download Audiobooks](#Audiobook)
-5. [Download Apps](#Apps)
-6. [Download Software](#Software)
-7. [Direct Download Link](#DownloadLinks)
-8. [Useful Links](#UsefulLinks)
+1. [Download Courses](#Courses) this are list of websites where you can download courses for free
+2. [Download Publish Paper](#Paper) this are list of websites where you can download Publish paper for free
+3. [Download Books](#Books) this are list of websites where you can download Books for free
+4. [Download Audiobooks](#Audiobook) this are list of websites where you can download Audiobook paer for free
+5. [Download Apps](#Apps) this are list of websites where you can download Premium App for free
+6. [Download Software](#Software) this are list of websites where you can download Premium Software for free
+7. [Direct Download Link](#DownloadLinks) this are list of links where you can download Courses for free
+8. [Useful Links](#UsefulLinks) this are list of websites where you use to imporve your Knowledge
 
 
 
 # Courses 
+
  
- 1. [Freetutorials](https://www.freetutorials.eu/)
+ 1. [Freetutorials](https://www.freetutorials.eu/) 
  2. [Freecoursesite](https://freecoursesite.com/)
  3. [Getfreetutorial](https://getfreetutorial.com/)
  4. [ttorial](https://ttorial.com/)
