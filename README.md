@@ -8,8 +8,8 @@
 4. [Download Audiobooks](#Audiobook)
 5. [Download Apps](#Apps)
 6. [Download Software](#Software)
-7. [Direct Download Link](#download)
-8. [Useful Links](#Useful Links)
+7. [Direct Download Link](#DownloadLinks)
+8. [Useful Links](#UsefulLinks)
 
 
 
@@ -69,9 +69,7 @@
 1. [4realtorrentz](https://4realtorrentz.com/)
 
 
-# download
-
-## direct download links
+# DownloadLinks
 
 1. Angular 4 Fresher : https://userupload.net/jmi2wziu5tvg
 2. Angular Recipes : https://userupload.net/vgvfngtull4f
@@ -111,7 +109,7 @@
 36. R Programming for beginners : https://userupload.net/p331k6zq49ba
 37. R Programming Tutorials : https://userupload.net/wgxmf2h1p2ae
 38. Small talk Programming : https://userupload.net/6d72tc43kvws
-39.sqlite tutorial point : https://userupload.net/aro39njz807i
+39. sqlite tutorial point : https://userupload.net/aro39njz807i
 40. Art of Programming tour statistical software design : https://userupload.net/vnk7a5v9etcl
 41. Zencode Cochdb : https://userupload.net/0ybtlcobpnfc
 42. arduino projects for all evil genius : https://userupload.net/s294zprfgh89
@@ -176,7 +174,7 @@
 
 *Web Sites For IT Training Programming, Web Development, Networking and More*
 
-#Useful Links
+# UsefulLinks
 
 1. www.codecademy.com
 2. www.lynda.com
@@ -308,4 +306,4 @@
 9. www.freelanced.com
 10. www.ifreelance.com
 11. www.peopleperhour.com
-12 www.peopleperhour.com
+12. www.peopleperhour.com
