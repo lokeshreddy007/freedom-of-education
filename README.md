@@ -309,9 +309,9 @@
 11. www.peopleperhour.com
 12. www.peopleperhour.com
 
-#Podcast
+# Podcast
 
  1. [hackablepodcast](https://hackablepodcast.com) 
  2. [relay](https://www.relay.fm/download)
- 3.[List of Podcast](https://collegeinfogeek.com/best-podcasts/)
+ 3. [List of Podcast](https://collegeinfogeek.com/best-podcasts/)
 
