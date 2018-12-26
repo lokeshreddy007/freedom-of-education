@@ -10,7 +10,7 @@
 6. [Download Software](#Software) this are list of websites where you can download Premium Software for free
 7. [Direct Download Link](#DownloadLinks) this are list of links where you can download Courses for free
 8. [Useful Links](#UsefulLinks) this are list of websites where you use to imporve your Knowledge
-
+9. [Podcast](#Podcast) Best Poadcast to listen which helps to imporve knowledge 
 
 
 # Courses 
@@ -308,3 +308,10 @@
 10. www.ifreelance.com
 11. www.peopleperhour.com
 12. www.peopleperhour.com
+
+#Podcast
+
+ 1. [hackablepodcast](https://hackablepodcast.com) 
+ 2. [relay](https://www.relay.fm/download)
+ 3.[List of Podcast](https://collegeinfogeek.com/best-podcasts/)
+
