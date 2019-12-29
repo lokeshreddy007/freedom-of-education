@@ -1,6 +1,6 @@
 # Freedom-Of-Education
 
-### This repo contains full list of websites from where you can download Courses,Publish Papers,Books,Audiobooks,Apps,Software and many more for free... if you found any website which is useful and not present in this list,let me known
+### This repo contains full list of websites from where we can Courses,Publish Papers,Books,Audiobooks,Apps,Software amd much more
 
 1. [Download Courses](#Courses) 
 2. [Download Publish Paper](#Paper) 
@@ -10,7 +10,7 @@
 6. [Download Apps](#Apps)  
 7. [Download Software](#Software)  
 8. [Podcast](#Podcast)   
-9. [Useful Links](#UsefulLinks) 
+9. [Useful Links](#UsefulLinks)
 10. [Issuu Downloader](#IssuuDownloader) 
 11. [Mega Search](#MegaSearch)
 
