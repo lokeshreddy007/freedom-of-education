@@ -36,7 +36,9 @@
  19. [learningcrux](https://www.learningcrux.com/)
  20. [freecourseweb](https://freecourseweb.com/)
  21. [freecoursestore](https://freecoursestore.com/)
-
+ 21. [freecourseudemy](https://freecourseudemy.com/)
+ 22. [ifreecourses](https://ifreecourses.com/)
+ 
 # Paper
 1. [sci-hub.tw](https://sci-hub.tw)
 2. [sci-hub.hk](https://sci-hub.hk)
@@ -79,6 +81,7 @@
 # Software
 1. [Dev app](https://ftuapps.dev/)
 2. [4realtorrentz](https://4realtorrentz.com/)
+3. [smoshtech](https://smoshtech.com/) 
 
 # Podcast
  1. [hackablepodcast](https://hackablepodcast.com) 
