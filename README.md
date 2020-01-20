@@ -13,6 +13,7 @@
 9. [Useful Links](#UsefulLinks)
 10. [Issuu Downloader](#IssuuDownloader) 
 11. [Mega Search](#MegaSearch)
+12. [Anime](#Anime)
 
 # Courses 
  1. [Freetutorials](https://www.freetutorials.eu/) 
@@ -105,6 +106,14 @@
 
 # MegaSearch
 1. [megasearch](http://megasearch.co/?h=1)
+
+# Anime
+1. [Animekisa](https://animekisa.tv/)
+2. [kissanime](https://kissanime.ru/)
+
+# Manga
+1. [mangakisa](https://mangakisa.com/)
+2. [kissmanga](https://kissmanga.com/)
 
 # ToDo  
 
