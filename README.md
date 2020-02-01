@@ -42,11 +42,14 @@
 # Books
 1. [gen.lib.rus.ec](http://gen.lib.rus.ec/)
 2. [smtebooks](https://smtebooks.net/)
-3. [ebook3000](http://www.ebook3000.com/)
+3. [ebook3000.com](http://www.ebook3000.com/Programming/index.html)
 4. [foxebook](https://www.foxebook.net/)
 5. [studycrux](https://www.studycrux.com/)
 6. [b-ok](https://b-ok.org/)
 7. [nulledpremium](https://nulledpremium.com/)
+8. [ebook3000.biz](https://ebook3000.biz/)
+9. [ebookscart](https://ebookscart.com/)
+10. [ebookpdfdrivescart](https://pdfdrive.com/)
 
 # Audiobook
 1. [audiobookbay](http://audiobookbay.nl/)
@@ -55,7 +58,7 @@
 1. [emagazinepdf](http://emagazinepdf.com/) or [emagazinepdf](https://freemagazinepdf.com/)
 2. [magazinelib](http://magazinelib.com/)
 3. [worldofmagazine](http://www.worldofmagazine.com/)
-4. [magdownload](https://magdownload.org/)
+4. [magdownload](https://magdownload.org/?s=Tech)
 5. [pdf-magazines-download](https://pdf-magazines-download.com/)
 6. [worldmags](http://worldmags.net/)
 7. [downmagaz](https://downmagaz.com/)
