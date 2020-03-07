@@ -32,6 +32,9 @@
  21. [freecoursestore](https://freecoursestore.com/)
  21. [freecourseudemy](https://freecourseudemy.com/)
  22. [ifreecourses](https://ifreecourses.com/)
+ 23. [coursesdaily](https://coursesdaily.com/)
+ 24. [coursedownloader](https://coursedownloader.net)
+ 25. [downloadly](https://downloadly.win/elearning/)
  
 # Paper
 1. [sci-hub.tw](https://sci-hub.tw)
