@@ -111,6 +111,8 @@
 1. [Animekisa](https://animekisa.tv/)
 2. [kissanime](https://kissanime.ru/)
 3. [dubbedanime](https://ww5.dubbedanime.net/)
+4. [animecruzers](https://ww4.animecruzers.io/)
+5. [animekayo](https://animekayo.com/)
 
 # Manga
 
@@ -118,6 +120,7 @@
 2. [kissmanga](https://kissmanga.com/)
 3. [mangaeden](http://mangaeden.com/)
 4. [tachiyomi app](https://tachiyomi.org/)
+5. [mp4directs](https://mp4directs.com/forums/manga-download-list.199/)
 
 # ToDo
 
