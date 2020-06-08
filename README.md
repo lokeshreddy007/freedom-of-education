@@ -36,6 +36,8 @@
 18. [coursedownloader](https://coursedownloader.net)
 19. [downloadly](https://downloadly.win/elearning/)
 20. [prologuepro](https://prologuepro.com/)
+21. [https://coursecatalog.us/](coursecatalog)
+22. [http://freoz.com/](freoz)
 
 # Paper
 
