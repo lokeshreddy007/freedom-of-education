@@ -13,6 +13,8 @@
 9. [Issuu Downloader](#IssuuDownloader)
 10. [Mega Search](#MegaSearch)
 11. [Anime](#Anime)
+12. [Manga](#Manga)
+13. [Udemy Courses Coupon](#Coupon)
 
 # Courses
 
@@ -36,8 +38,8 @@
 18. [coursedownloader](https://coursedownloader.net)
 19. [downloadly](https://downloadly.win/elearning/)
 20. [prologuepro](https://prologuepro.com/)
-21. [https://coursecatalog.us/](coursecatalog)
-22. [http://freoz.com/](freoz)
+21. [coursecatalog](https://coursecatalog.us/)
+22. [freoz](http://freoz.com/)
 
 # Paper
 
@@ -123,6 +125,12 @@
 3. [mangaeden](http://mangaeden.com/)
 4. [tachiyomi app](https://tachiyomi.org/)
 5. [mp4directs](https://mp4directs.com/forums/manga-download-list.199/)
+
+# Coupon
+
+1. [udemycoupon](https://udemycoupon.onlinetutorials.org/)
+2. [learnviral](https://udemycoupon.learnviral.com/)
+3. [onlinetutorials](https://www.onlinetutorials.org/)
 
 # ToDo
 
