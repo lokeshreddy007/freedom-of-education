@@ -4,13 +4,13 @@
 
 ## Table of Content
 
-1. [Download Courses](#Courses)
-2. [Download Publish Paper](#Paper)
-3. [Download Books](#Books)
-4. [Download Audiobooks](#Audiobook)
-5. [Download Magazine](#Magazine)
-6. [Download Apps](#Apps)
-7. [Download Software](#Software)
+1. [Courses](#Courses)
+2. [Publish Paper](#Paper)
+3. [Books](#Books)
+4. [Audiobooks](#Audiobook)
+5. [Magazine](#Magazine)
+6. [Apps](#Apps)
+7. [Software](#Software)
 8. [Podcast](#Podcast)
 9. [Issuu Downloader](#IssuuDownloader)
 10. [Mega Search](#MegaSearch)
