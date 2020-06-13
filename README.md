@@ -1,6 +1,8 @@
 # Freedom-Of-Education
 
-### This repo contains full list of websites from where we can get Courses, Publish Papers, Books, Audiobooks, Apps, Software and much more for free!!
+#### This repo contains full list of aweswome websites from where we can get free Courses, Publish Papers, Books, Audiobooks, Apps, Software and much more for free!!
+
+## Table of Content
 
 1. [Download Courses](#Courses)
 2. [Download Publish Paper](#Paper)
@@ -18,7 +20,6 @@
 
 # Courses
 
-1.  [Freetutorials](https://www.freetutorials.eu/)
 2.  [Freecoursesite](https://freecoursesite.com/)
 3.  [ttorial](https://ttorial.com/)
 4.  [freecoursesonline](https://www.freecoursesonline.me/)
@@ -33,13 +34,12 @@
 13. [freecourseweb](https://freecourseweb.com/)
 14. [freecoursestore](https://freecoursestore.com/)
 15. [freecourseudemy](https://freecourseudemy.com/)
-16. [ifreecourses](https://ifreecourses.com/)
-17. [coursesdaily](https://coursesdaily.com/)
-18. [coursedownloader](https://coursedownloader.net)
-19. [downloadly](https://downloadly.win/elearning/)
-20. [prologuepro](https://prologuepro.com/)
-21. [coursecatalog](https://coursecatalog.us/)
-22. [freoz](http://freoz.com/)
+16. [coursesdaily](https://coursesdaily.com/)
+17. [coursedownloader](https://coursedownloader.net)
+18. [downloadly](https://downloadly.win/elearning/)
+19. [prologuepro](https://prologuepro.com/)
+20. [coursecatalog](https://coursecatalog.us/)
+21. [freoz](http://freoz.com/)
 
 # Paper
 
