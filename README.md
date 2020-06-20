@@ -40,6 +40,8 @@
 19. [prologuepro](https://prologuepro.com/)
 20. [coursecatalog](https://coursecatalog.us/)
 21. [freoz](http://freoz.com/)
+22. [freetutorialshub](https://www.freetutorialshub.com/)
+23. [myfreecourses](https://myfreecourses.com/)
 
 # Paper
 
