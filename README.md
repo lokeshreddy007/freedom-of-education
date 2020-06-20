@@ -20,6 +20,7 @@
 
 # Courses
 
+1.  [freoz](http://freoz.com/)
 2.  [Freecoursesite](https://freecoursesite.com/)
 3.  [ttorial](https://ttorial.com/)
 4.  [freecoursesonline](https://www.freecoursesonline.me/)
@@ -39,9 +40,8 @@
 18. [downloadly](https://downloadly.win/elearning/)
 19. [prologuepro](https://prologuepro.com/)
 20. [coursecatalog](https://coursecatalog.us/)
-21. [freoz](http://freoz.com/)
-22. [freetutorialshub](https://www.freetutorialshub.com/)
-23. [myfreecourses](https://myfreecourses.com/)
+21. [freetutorialshub](https://www.freetutorialshub.com/)
+22. [myfreecourses](https://myfreecourses.com/)
 
 # Paper
 
