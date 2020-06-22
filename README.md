@@ -42,6 +42,7 @@
 20. [coursecatalog](https://coursecatalog.us/)
 21. [freetutorialshub](https://www.freetutorialshub.com/)
 22. [myfreecourses](https://myfreecourses.com/)
+23. [courseforfree](https://courseforfree.com/)
 
 # Paper
 
