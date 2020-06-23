@@ -134,6 +134,8 @@
 1. [udemycoupon](https://udemycoupon.onlinetutorials.org/)
 2. [learnviral](https://udemycoupon.learnviral.com/)
 3. [onlinetutorials](https://www.onlinetutorials.org/)
+4. [freebiesglobal](https://freebiesglobal.com/)
+5. [tutorialbar](https://www.tutorialbar.com/)
 
 # ToDo
 
