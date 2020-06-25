@@ -37,12 +37,16 @@
 15. [freecourseudemy](https://freecourseudemy.com/)
 16. [coursesdaily](https://coursesdaily.com/)
 17. [coursedownloader](https://coursedownloader.net)
-18. [downloadly](https://downloadly.win/elearning/)
+18. [downloadly.win](https://downloadly.win/elearning/)
 19. [prologuepro](https://prologuepro.com/)
 20. [coursecatalog](https://coursecatalog.us/)
 21. [freetutorialshub](https://www.freetutorialshub.com/)
 22. [myfreecourses](https://myfreecourses.com/)
 23. [courseforfree](https://courseforfree.com/)
+24. [downloadly.net](https://downloadly.net/)
+25. [downloadly.ir](https://downloadly.ir/)
+26. [tvdekho](https://pakistantvdekho.com/)
+27. [downloadtutorials](https://downloadtutorials.net/)
 
 # Paper
 
@@ -63,10 +67,13 @@
 8. [ebook3000.biz](https://ebook3000.biz/)
 9. [ebookscart](https://ebookscart.com/)
 10. [ebookpdfdrivescart](https://pdfdrive.com/)
+11. [ebookee](https://ebookee.com/)
 
 # Audiobook
 
 1. [audiobookbay](http://audiobookbay.nl/)
+2. [ebookee](https://ebookee.com/audiobook.html)
+3. [mobilism](https://forum.mobilism.org/viewforum.php?f=124)
 
 # Magazine
 
