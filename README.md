@@ -50,6 +50,7 @@
 28. [forcoder](https://forcoder.su/)
 29. [coderprog](https://coderprog.com/)
 30. [s3.bitdl](http://s3.bitdl.ir/Learning/LYNDA.COM/)
+31. [gfxtra31](https://www.gfxtra31.com/tutorials/)
 
 # Paper
 
@@ -92,6 +93,7 @@
 10. [freemagspot](http://www.freemagspot.me/)
 11. [storemags](http://storemags.com/category/computer_internet/)
 12. [pdfmagazines](http://www.pdfmagazines.org/)
+13. [gfxtra31](https://www.gfxtra31.com/magazines/)
 
 # Apps
 
