@@ -47,6 +47,9 @@
 25. [downloadly.ir](https://downloadly.ir/)
 26. [tvdekho](https://pakistantvdekho.com/)
 27. [downloadtutorials](https://downloadtutorials.net/)
+28. [forcoder](https://forcoder.su/)
+29. [coderprog](https://coderprog.com/)
+30. [s3.bitdl](http://s3.bitdl.ir/Learning/LYNDA.COM/)
 
 # Paper
 
