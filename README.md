@@ -2,6 +2,8 @@
 
 #### This repo contains full list of aweswome websites from where we can get free Courses, Publish Papers, Books, Audiobooks, Apps, Software and much more for free!!
 
+![Freedom0fEduacation](Freedom0fEduacation.png)
+
 ## Table of Content
 
 1. [Courses](#Courses)
@@ -150,18 +152,3 @@
 3. [onlinetutorials](https://www.onlinetutorials.org/)
 4. [freebiesglobal](https://freebiesglobal.com/)
 5. [tutorialbar](https://www.tutorialbar.com/)
-
-# ToDo
-
-Need to check this site and add them
-
-1. AudioBook Bay
-2. The Pirate Bay
-3. Zooqle
-4. My Anonamouse
-5. Audiobooks.Cloud
-6. RARBG
-7. Bitport
-8. 1337X
-9. Abtorrents
-10. Rutracker
