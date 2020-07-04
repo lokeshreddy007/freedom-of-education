@@ -76,6 +76,7 @@
 10. [ebookpdfdrivescart](https://pdfdrive.com/)
 11. [ebookee](https://ebookee.com/)
 12. [pdfdrive](https://www.pdfdrive.com/)
+13. [ebookpdf](https://ebookpdf.com/hacking)
 
 # Audiobook
 
