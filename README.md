@@ -78,6 +78,7 @@
 11. [ebookee](https://ebookee.com/)
 12. [pdfdrive](https://www.pdfdrive.com/)
 13. [jojobooks](https://jojobooks.com/)
+14. [ebookpdf](https://ebookpdf.com/hacking)
 
 # Audiobook
 
