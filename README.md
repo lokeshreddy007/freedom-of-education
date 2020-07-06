@@ -54,6 +54,7 @@
 30. [s3.bitdl](http://s3.bitdl.ir/Learning/LYNDA.COM/)
 31. [gfxtra31](https://www.gfxtra31.com/tutorials/)
 32. [techlinks](https://techlinks.tk/)
+33. [learningdl](https://learningdl.net/)
 
 # Paper
 
@@ -76,6 +77,7 @@
 10. [ebookpdfdrivescart](https://pdfdrive.com/)
 11. [ebookee](https://ebookee.com/)
 12. [pdfdrive](https://www.pdfdrive.com/)
+13. [jojobooks](https://jojobooks.com/)
 
 # Audiobook
 
