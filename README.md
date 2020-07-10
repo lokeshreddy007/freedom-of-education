@@ -55,6 +55,8 @@
 31. [gfxtra31](https://www.gfxtra31.com/tutorials/)
 32. [techlinks](https://techlinks.tk/)
 33. [learningdl](https://learningdl.net/)
+34. [freecoursedl](https://freecoursedl.com)
+35. [freetutsdownload](https://freetutsdownload.net)
 
 # Paper
 
