@@ -82,6 +82,7 @@
 12. [pdfdrive](https://www.pdfdrive.com/)
 13. [jojobooks](https://jojobooks.com/)
 14. [ebookpdf](https://ebookpdf.com/hacking)
+15. [letmeread](https://www.letmeread.net/)
 
 # Audiobook
 
