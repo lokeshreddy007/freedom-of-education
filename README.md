@@ -59,6 +59,7 @@
 35. [freetutsdownload](https://freetutsdownload.net)
 36. [liansec](http://dl.liansec.net/srv1/)
 37. [coursedown](https://coursedown.com/)
+38. [tutflix](https://tutflix.com/udemy-laravel-7-vuejs-restful-api-course-with-complete-project/)
 
 # Paper
 
