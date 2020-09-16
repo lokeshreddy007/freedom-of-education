@@ -109,6 +109,10 @@
 12. [pdfmagazines](http://www.pdfmagazines.org/)
 13. [gfxtra31](https://www.gfxtra31.com/magazines/)
 14. [freemagazines](https://freemagazines.top/)
+15. [magazine-lib](https://magazine-lib.com/)
+16. [magfree](http://www.magfree.net/)
+17. [freemagazineslib](https://www.freemagazineslib.com/)
+
 
 # Apps
 
