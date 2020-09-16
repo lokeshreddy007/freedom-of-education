@@ -85,6 +85,7 @@
 13. [jojobooks](https://jojobooks.com/)
 14. [ebookpdf](https://ebookpdf.com/hacking)
 15. [letmeread](https://www.letmeread.net/)
+16. [all-ebook](https://all-ebook.info/)
 
 # Audiobook
 
@@ -107,6 +108,7 @@
 11. [storemags](http://storemags.com/category/computer_internet/)
 12. [pdfmagazines](http://www.pdfmagazines.org/)
 13. [gfxtra31](https://www.gfxtra31.com/magazines/)
+14. [freemagazines](https://freemagazines.top/)
 
 # Apps
 
