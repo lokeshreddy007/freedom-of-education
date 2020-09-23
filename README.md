@@ -19,6 +19,7 @@
 11. [Anime](#Anime)
 12. [Manga](#Manga)
 13. [Udemy Courses Coupon](#Coupon)
+14. [Torrent](#Torrent)
 
 # Courses
 
@@ -60,6 +61,7 @@
 36. [liansec](http://dl.liansec.net/srv1/)
 37. [coursedown](https://coursedown.com/)
 38. [tutflix](https://tutflix.com/udemy-laravel-7-vuejs-restful-api-course-with-complete-project/)
+39. [tutsnode](https://tutsnode.net/)
 
 # Paper
 
@@ -127,6 +129,9 @@
 1. [Dev app](https://ftuapps.dev/)
 2. [4realtorrentz](https://4realtorrentz.com/)
 3. [smoshtech](https://smoshtech.com/)
+4. [haxnode](https://haxnode.com/)
+5. [crackingpatching](https://crackingpatching.com/)
+6. [novahax](https://www.novahax.com/search/label/Windows)
 
 # Podcast
 
@@ -167,3 +172,19 @@
 3. [onlinetutorials](https://www.onlinetutorials.org/)
 4. [freebiesglobal](https://freebiesglobal.com/)
 5. [tutorialbar](https://www.tutorialbar.com/)
+
+# Torrent
+
+1. [glodls](https://glodls.to/)
+2. [prostylex](https://prostylex.org/)
+3. [ettvcentral](https://www.ettvcentral.com/)
+4. [torrentgalaxy](https://torrentgalaxy.to/)
+5. [tutorialbar](https://www.tutorialbar.com/)
+
+# Game
+1. [Igg](https://igg-games.com/)
+
+# Design
+1. [freedownloadae](https://freedownloadae.com/)
+
+
