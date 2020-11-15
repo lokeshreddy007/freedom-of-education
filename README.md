@@ -62,6 +62,7 @@
 37. [coursedown](https://coursedown.com/)
 38. [tutflix](https://tutflix.com/udemy-laravel-7-vuejs-restful-api-course-with-complete-project/)
 39. [tutsnode](https://tutsnode.net/)
+40. [courseupload](https://courseupload.com/)
 
 # Paper
 
