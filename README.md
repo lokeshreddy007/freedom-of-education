@@ -20,6 +20,7 @@
 12. [Manga](#Manga)
 13. [Udemy Courses Coupon](#Coupon)
 14. [Torrent](#Torrent)
+15. [German](#German)
 
 # Courses
 
@@ -188,5 +189,20 @@
 
 # Design
 1. [freedownloadae](https://freedownloadae.com/)
+
+# German
+1. [versatile4u](http://versatile4u.blogfa.com)
+2. [lernen-together](https://lernen-together.blogspot.com)
+3. [dlscrib](https://dlscrib.com/download/fit-f-uuml-rs-goethe-zertifikat-a1_58a621c06454a7d10db1e90b_pdf)
+4. [idoc](https://idoc.pub/documents/fit-furs-goethe-zertifikat-a1-pdf-jlkq93qd58l5)
+5. [kupdf](https://kupdf.net/search/Learn+german)
+6. [vk-club](https://vk.com/club72193828)
+7. [vk](https://vk.com/wall-72193828?q=A1)
+8. [german4free](http://www.german4free.com/)
+
+
+
+
+
 
 
