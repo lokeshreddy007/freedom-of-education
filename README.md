@@ -160,6 +160,7 @@
 4. [animefreak](https://www.animefreak.tv/)
 5. [animekayo](https://animekayo.com/)
 6. [animedao](https://animedao-tv.com/)
+7. [9anime](https://9anime.to/)
 
 # Manga
 
