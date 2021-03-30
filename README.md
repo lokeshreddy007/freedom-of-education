@@ -155,10 +155,11 @@
 # Anime
 
 1. [Animekisa](https://animekisa.tv/)
-2. [kissanime](https://kissanime.ru/)
+2. [gogoanime](https://gogoanime.ai/)
 3. [dubbedanime](https://ww5.dubbedanime.net/)
-4. [animecruzers](https://ww4.animecruzers.io/)
+4. [animefreak](https://www.animefreak.tv/)
 5. [animekayo](https://animekayo.com/)
+6. [animedao](https://animedao-tv.com/)
 
 # Manga
 
