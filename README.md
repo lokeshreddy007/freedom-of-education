@@ -135,6 +135,7 @@
 5. [crackingpatching](https://crackingpatching.com/)
 6. [novahax](https://www.novahax.com/search/label/Windows)
 7. [filecr](https://filecr.com/en/)
+8. [Mac bed ](https://www.macbed.com/featured/)
 
 # Podcast
 
