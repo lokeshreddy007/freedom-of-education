@@ -54,6 +54,9 @@
 28. [techlinks](https://techlinks.tk/)
 29. [learningdl](https://learningdl.net/)
 30. [freecoursedl](https://freecoursedl.com)
+31. [tutorialsplanet](https://tutorialsplanet.net)
+32. [tetacourse](https://tetacourse.com)
+33. [course-downloader](https://course-downloader.com)
 
 # Paper
 
