@@ -84,6 +84,124 @@
 15. [letmeread](https://www.letmeread.net/)
 16. [all-ebook](https://all-ebook.info/)
 
+## New List
+[BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
+
+[Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
+
+[COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
+
+[Apprentice Alf’s Blog](https://apprenticealf.wordpress.com/) Everything you ever wanted to know about DRM and ebooks but were afraid to ask.
+
+[Calibre](https://calibre-ebook.com/) ebook management tool
+
+[Calibre-Web](https://github.com/janeczku/calibre-web) Web app for browsing, reading and downloading eBooks stored in a Calibre database
+
+[Custom Search Engine](https://cse.google.com/cse?cx=000661023013169144559:a1-kkiboeco) A Google custom search engine specifically for ebooks
+
+[Exploring over 1,800 Calibre ebook servers](https://blog.chrisbonk.ca/2018/12/knowledge-is-power-exploring-over-1800.html?m=1) Blog post detailing how to use Shodan to find Calibre ebook servers
+
+[DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) DeDRM tools for ebooks.
+
+[ReadAnyBook](https://readanybook.com/) Free online reading.
+
+[PDFdrive](http://pdfdrive.com/) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
+
+[Memory of the world](http://library.memoryoftheworld.org/) A new website containing a lot of books.
+
+[Zoboko.com](https://zoboko.com/)
+
+[Open Slum](https://open-slum.org/) - Book Site Index / Uptime Tracking
+
+[Anna’s Archive](https://annas-archive.org/), [2](https://annas-archive.li/), [3](https://annas-archive.se/) - Books / Comics / Educational / [Expand Downloads](https://greasyfork.org/en/scripts/494262) / [Mobile App](https://github.com/dstark5/Openlib)
+[Bookracy](https://bookracy.ru/), [2](https://bookracy.org/), [3](https://lite.bookracy.org/) - Books / [Download Buttons](https://greasyfork.org/en/scripts/514877) /
+
+[Library Genesis](https://libgen.is/) - Books / Comics / Manga / [Tools](https://fmhy.net/storage#libgen-tools) / [Mirrors](https://fmhy.net/storage#libgen-mirrors)
+
+[Z-Library](https://z-lib.gs/), [2](https://articles.sk/), [3](https://z-lib.gd/), [4](https://1lib.sk/), [5](https://z-library.sk/) - Books / Comics / Educational / [Desktop / Extensions](https://go-to-library.sk/) /
+
+[Mobilism](https://forum.mobilism.org/), [2](https://forum.mobilism.me/) - Books / Audiobooks / Magazines / Newspapers / Comics / Signup Required / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
+
+[MyAnonaMouse](https://www.myanonamouse.net/) - [Invites](https://www.myanonamouse.net/inviteapp.php)
+
+[Archive.org](https://archive.org/details/texts) - Books / Audiobooks / Magazines / Newspapers / [Downloader](https://github.com/MiniGlome/Archive.org-Downloader), [2](https://bookripper.neocities.org/), [3](https://redd.it/fm1xpw), [4](https://rentry.org/arch1ve) / [Extension](https://github.com/elementdavv/internet_archive_downloader) / [Script](https://redd.it/ofcqds) / [CLI](https://github.com/jjjake/internetarchive)
+
+[Liber3](https://liber3.eth.limo/) - Books /
+
+[The Library](https://discord.gg/mSyFJz9) - Book Discord Server
+
+[eBookHunter](https://ebook-hunter.org/) - Books / Comics / Use Adblocker
+
+[FreeBannedBooks](https://freebannedbooks.org/) - Books Banned in Schools by Politicians
+
+[Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39), [Rave](https://ravebooksearch.com/) or [Recherche](https://recherche-ebook.fr/en/) - Multi-Site Book Search
+
+[Calibre](https://calibre-ebook.com/) - Ebook Manager / Downloader / [Libraries / Tools](https://fmhy.net/readingpiracyguide#calibre-libraries)
+
+[Book Search Guide](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/mobilebasic) - Guide to Finding Articles / Books
+
+IRC Book Tools - [Guide](https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/) / [mIRC](https://redd.it/znprct) / [Downloader](https://evan-buss.github.io/openbooks/)
+
+[BookSee](https://en.booksee.org/), [2](https://bookree.org/) - Books
+
+[Bookstagram](https://vk.com/bookstagram_eng) - Books / Magazines
+
+[Docutr](https://www.docutr.com/) - Books / Magazines / Newspapers
+
+[dpgroup](https://www.dpgroup.org/) - Books / Magazines
+
+[eBookBB](https://ebookbb.in/) or [iBookPile](https://ibookpile.in/) - Books
+
+[AllBooksWorld](https://allbooksworld.com/) - Books
+
+[Novel12](https://novel12.com/) - Books
+
+[IsIDore](https://rentry.co/FMHYBase64#isidore) - Books
+
+[ibookscafe](https://bookscafe.net/) - Books / NSFW
+
+[English E-Reader](https://english-e-reader.net/) - Books
+
+[Avalon Library](https://avalonlibrary.net/) – Books
+
+[Gray City](https://graycity.net/) - Books
+
+[Litgu.ru](https://litgu.ru/) - Books
+
+[Elegant Solutions](http://esspc-ebooks.com/) - Books
+
+[BookFrom.net](https://www.bookfrom.net/) - Books
+
+[FreeEditorial](https://www.freeditorial.com/) - Books
+
+[Zoboko](https://zoboko.com/) - Books
+
+[TG Books](https://torrentgalaxy.to/) - Torrents / Books
+
+[NovelsArchive](https://t.me/NovelsArchive) - Books / Telegram
+
+[BooksMania](https://t.me/booksmania) - Books / Telegram
+
+[FreeReadFeed](https://www.freereadfeed.com/) - Free Kindle Books
+
+[Flibusta](https://flibusta.is/) - Books / [.i2p](https://flibusta.i2p/), [2](http://zmw2cyw2vj7f6obx3msmdvdepdhnw2ctc4okza2zjxlukkdfckhq.b32.i2p/) / Account Required
+
+[ExClassics](https://www.exclassics.com/) - Obscure Books
+
+[Hoopla](https://www.hoopladigital.com/) - Books / Library Card Required
+
+[The Free Book Library](https://ebooks.i2p/) - Books / I2P Required
+
+[Find Books](https://www.findbooks.info/) - Books / IPFS Required
+
+[Antilibrary](http://127.0.0.1:43110/Antilibrary.bit/) - ZeroNet Required
+
+[IBHaven](https://ibhaven.st/) - Books / Tor + P2P Client Required
+
+[/r/FreeEBOOKS](https://reddit.com/r/FreeEBOOKS) - Reddit section to get books
+
+
+
 # Audiobook
 
 1. [audiobookbay](http://audiobookbay.nl/)
